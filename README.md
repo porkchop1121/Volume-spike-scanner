@@ -1,4 +1,3 @@
-# Volume-spike-scanner
 import yfinance as yf
 import pandas as pd
 import requests
